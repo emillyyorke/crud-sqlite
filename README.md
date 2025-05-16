@@ -30,4 +30,4 @@ Baixe e instale o DB Browser for SQLite https://sqlitebrowser.org/
 
 Abra o arquivo backend/db/tarefas.db
 
-Explore as tabelas e execute queries manualmente
+Explore a tabela e execute queries manualmente
